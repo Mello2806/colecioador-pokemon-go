@@ -1,1 +1,1 @@
-# colecioador-pokemon-go
+# colecionador-pokemon-go
